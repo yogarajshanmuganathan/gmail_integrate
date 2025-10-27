@@ -1,5 +1,2 @@
-token.json
-credentials.json
 __pycache__/
-.ipynb_checkpoints/
-.env
+data/
